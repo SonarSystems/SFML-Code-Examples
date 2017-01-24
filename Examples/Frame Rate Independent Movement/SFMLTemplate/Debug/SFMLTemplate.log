@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\fhussa01\documents\sfml\lab\frame rate independent movement\sfmltemplate\main.cpp(62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SFMLTemplate.vcxproj -> C:\Users\fhussa01\Documents\SFML\Lab\Frame Rate Independent Movement\Debug\SFMLTemplate.exe
+  SFMLTemplate.vcxproj -> C:\Users\fhussa01\Documents\SFML\Lab\Frame Rate Independent Movement\Debug\SFMLTemplate.pdb (Full PDB)
