@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\fhussa01\documents\sfml\lab\circle collision\sfmltemplate\main.cpp(49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\fhussa01\documents\sfml\lab\circle collision\sfmltemplate\main.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\fhussa01\documents\sfml\lab\circle collision\sfmltemplate\main.cpp(59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\fhussa01\documents\sfml\lab\circle collision\sfmltemplate\main.cpp(64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SFMLTemplate.vcxproj -> C:\Users\fhussa01\Documents\SFML\Lab\Circle Collision\Debug\SFMLTemplate.exe
+  SFMLTemplate.vcxproj -> C:\Users\fhussa01\Documents\SFML\Lab\Circle Collision\Debug\SFMLTemplate.pdb (Full PDB)
